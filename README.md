@@ -1,1 +1,4 @@
-![Metrics](https://metrics.lecoq.io/S0NES?template=terminal&repositories.forks=true&introduction=1&isocalendar=1&lines=1&introduction.title=true&isocalendar.duration=full-year&config.timezone=America%2FSao_Paulo)
+#Hey 
+My name is Vinicius Scarabelli
+
+I'm information system Student who loves to 
