@@ -1,4 +1,15 @@
-#Hey 
+# Hey 
 My name is Vinicius Scarabelli
 
-I'm information system Student who loves to 
+I'm information system Student that loves to create incredibly beautiful and functional websites!
+
+• ❤️‍🔥 Passionate about "CSS" and "SCSS" and how they can change a web experience;
+<br/>• 📖Currently learning more about "JAVASCRIPT" frameworks such as node, flutter, react, etc...;
+<br/>• ❤️Really in love about the latest technologies involving Web & Mobile;
+<br/>• 🎮 I love to Play, Draw, Read and listen to podcast in my spare time;
+
+### 🕊️ Even the word hopeless isn't devoid of hope
+
+<br/>[![S0NES's GitHub stats](https://github-readme-stats.vercel.app/api?username=S0NES&theme=tokyonight)](https://github.com/S0NES)
+<br/><br/>[![Linkedin Badge](https://img.shields.io/badge/Scarabelli-blue?link=http://left&link=https://www.linkedin.com/in/scarabelli/?style=flat&logo=linkedin)](https://www.linkedin.com/in/scarabelli/)
+[![Gmail Badge](https://img.shields.io/badge/-scarabelli.vinicius@gmail.com-FF0033?style=flat&logo=Gmail&logoColor=white&link=mailto:scarabelli.vinicius@gmail.com)](mailto:scarabelli.vinicius@gmail.com)
