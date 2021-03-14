@@ -11,6 +11,6 @@ I'm information system Student that loves to create incredibly beautiful and fun
 ### 🕊️ Even the word hopeless isn't devoid of hope
 
 <br/>[![S0NES's GitHub stats](https://github-readme-stats.vercel.app/api?username=S0NES&theme=tokyonight)](https://github.com/S0NES)
-<br/>[![S0NES's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=S0NES&theme=tokyonight&layout=compact)]
+<br/>![S0NES's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=S0NES&theme=tokyonight&layout=compact)
 <br/><br/>[![Linkedin Badge](https://img.shields.io/badge/Scarabelli-blue?link=http://left&link=https://www.linkedin.com/in/scarabelli/?style=flat&logo=linkedin)](https://www.linkedin.com/in/scarabelli/)
 [![Gmail Badge](https://img.shields.io/badge/-scarabelli.vinicius@gmail.com-FF0033?style=flat&logo=Gmail&logoColor=white&link=mailto:scarabelli.vinicius@gmail.com)](mailto:scarabelli.vinicius@gmail.com)
